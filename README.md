@@ -5,6 +5,6 @@ Project written during HackCooper 2016
     * A Major League Hacking Event (mlh.io)
 		
 
-*Yanjun Yang: https://github.com/coolfan
-*Johnathan Wong: https://github.com/JonW27
-*Andrew Ku: https://github.com/Nachozombie
+  * Yanjun Yang: https://github.com/coolfan
+  * Johnathan Wong: https://github.com/JonW27
+  * Andrew Ku: https://github.com/Nachozombie
