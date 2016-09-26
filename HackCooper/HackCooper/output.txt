@@ -1,0 +1,13 @@
+TextMood:
+bad
+Conflict:
+happy vs. sad
+DifficultWords:
+am
+but
+guy
+happy
+i
+is
+sad
+that

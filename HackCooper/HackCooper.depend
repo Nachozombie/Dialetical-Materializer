@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1474780253 source:/home/coolfan/Desktop/Gits/HackCooper/HackCooper/HackCooper/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstddef>
+	<algorithm>
+	<vector>
+	<map>
+	<set>
+
